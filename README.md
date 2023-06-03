@@ -6,7 +6,7 @@ I'm Steven Hatzakis, a full-time fintech researcher and the Global Director of O
 
 I am thrilled to share my new book, **Mastering Meta-Prompting: The Key to AI-Driven Success** 🚀, is now [available on Amazon](https://www.amazon.com/dp/B0C6PRFNL5)!
 
-<img src="https://github.com/hatgit/hatgit/assets/5213035/ce15c67c-7a98-475b-b8b6-d230190b4388" width="15%" height="auto">)
+<img src="https://github.com/hatgit/hatgit/assets/5213035/ce15c67c-7a98-475b-b8b6-d230190b4388" width="15%" height="auto">
 
 
 ## Cryptography and Open-Source Contributions
