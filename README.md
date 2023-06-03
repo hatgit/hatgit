@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I'm Steven Hatzakis, a full-time fintech researcher and the Global Director of Online Broker Research at Reink Media Group, the operator of ForexBrokers.com, StockBrokers.com, Investor.com, and other authoritative domains in the personal finance and online broker research field. With over 24 years of experience in the financial markets, specifically in the derivatives and foreign exchange markets, I'm passionate about helping consumers and explaining financial market dynamics to traders. Millions of people read my content. I'm also actively involved in the finance industry, having attended over 40 industry events since 2007 as an exhibitor, panelist, and speaker.
+I'm Steven Hatzakis, a full-time fintech researcher and the Global Director of Online Broker Research at Reink Media Group, the operator of ForexBrokers.com, StockBrokers.com, Investor.com, and other authoritative domains in the personal finance and online broker research field. I have over 24 years of experience in the financial markets, specifically in the derivatives and foreign exchange markets, I'm passionate about helping consumers and explaining financial market dynamics to traders. Millions of people read my content. I'm also actively involved in the finance industry, having attended over 40 industry events since 2007 as an exhibitor, panelist, and speaker.
 
 ## New Book On Prompt Engineering
 I am thrilled to share my new book, **Mastering Meta-Prompting: The Key to AI-Driven Success** 🚀, is now [available on Amazon](https://www.amazon.com/dp/B0C6PRFNL5)!
