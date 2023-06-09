@@ -15,7 +15,7 @@ I am thrilled to share my new book, **Mastering Meta-Prompting: The Key to AI-Dr
 I developed [Forex-GPT](https://forex-gpt.ai/), a plugin for Chat-GPT that interacts with forex market prices, available for developers as an unverified plugin (Forex-Rates).
 
 ## Cryptography and Open-Source Contributions
-In addition to my work in the financial industry, I have a keen interest in researching cryptography and cybersecurity, particularly in relation to the rise of digital assets, web3, blockchain, and their convergence with AI, and the importance of consumer safety on the internet.
+In addition to my work in the financial industry, I have a keen interest in researching cryptography and cybersecurity, particularly in relation to the rise of digital assets, web3, blockchain, and their convergence with [AI](https://www.cloudskillsboost.google/public_profiles/7be5a16b-00ff-4e4f-9ff4-32334addebbd), and the importance of consumer safety on the internet.
 
 
 <img src="https://github.com/hatgit/hatgit/assets/5213035/95963042-8093-41a5-9717-d42bab097508" width="5%" height="auto"> Check out my Google Chrome Plugin for secure password generation: https://chrome.google.com/webstore/detail/white-hat-password-genera/pbofgfidfngmafemlgkjmllolchjnmgk/
