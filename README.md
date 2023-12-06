@@ -1,6 +1,8 @@
 # Hi there! 👋
 
 ## About Me
+<a href="https://stackexchange.com/users/14307327/steven-hatzakis"><img src="https://stackexchange.com/users/flair/14307327.png" width="208" height="58" alt="profile for Steven Hatzakis on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Steven Hatzakis on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 I'm Steven Hatzakis, a full-time fintech researcher and the Global Director of Online Broker Research at [Reink Media Group](https://www.reinkmedia.com/), the operator of [ForexBrokers.com](https://www.forexbrokers.com/), [StockBrokers.com](https://www.stockbrokers.com/), [Investor.com](https://www.investor.com/), and other authoritative domains in the personal finance and online broker research field. 
 
 I have over 24 years of experience in the financial markets, specifically in the derivatives and foreign exchange markets. I'm passionate about helping consumers and explaining financial market dynamics to the millions of people that read my content. I'm also actively involved in the finance industry, having attended over 40 industry events since 2007 as an exhibitor, panelist, and speaker.
