@@ -15,8 +15,8 @@ I am thrilled to share my new book, **Mastering Meta-Prompting: The Key to AI-Dr
 
 <img src="https://github.com/hatgit/hatgit/assets/5213035/ce15c67c-7a98-475b-b8b6-d230190b4388" width="15%" height="auto">
 
-## New Chat-GPT Plugin Forex-Rates
-<img src="https://github.com/hatgit/forex-gpt/assets/5213035/c461f57b-d977-4c95-bc9f-de6abac01501" width="5%" height="auto"> I developed [Forex-GPT](https://forex-gpt.ai/), which offers the Forex-Rates plugin for Chat-GPT that interacts with forex market prices, available for [premium Chat-GPT subscribers](https://openai.com/blog/chatgpt-plus)).
+## New ForexGPT web application and GPTs for Chat-GPT (Forex-Rates suite)
+<img src="https://github.com/hatgit/forex-gpt/assets/5213035/c461f57b-d977-4c95-bc9f-de6abac01501" width="5%" height="auto"> I developed [Forex-GPT](https://forex-gpt.ai/), which offers the Forex-Rates suite consisting of our Software as a Service (SaaS) application and GPTs for Chat-GPT, which interact with forex market prices, available for free and [premium Chat-GPT subscribers](https://openai.com/blog/chatgpt-plus)).
 
 ## Google Chrome plugin for secure passwords
 <img src="https://github.com/hatgit/hatgit/assets/5213035/95963042-8093-41a5-9717-d42bab097508" width="5%" height="auto"> Check out my Google Chrome Plugin for secure password generation available on the Google Chrome plugin store as [White Hat Password Generator](https://chrome.google.com/webstore/detail/white-hat-password-genera/pbofgfidfngmafemlgkjmllolchjnmgk/).
