@@ -25,9 +25,14 @@ I've been practicing RAG and agentic coding workflows since before these terms e
 
 The ForexGPT Pro Terminal is available on [Google Play](https://play.google.com/store/apps/details?id=ai.forex_gpt.demo.twa):
 
-<img src="https://github.com/user-attachments/assets/1653b442-999d-4a68-8e1e-dd4e7f123832" width="25%" height="auto">
+<img src="https://github.com/user-attachments/assets/da3e8e93-c8c7-48f1-9e7d-0022ffce0cdc" width="10%" height="auto">
 
-## Mastering Meta-Prompting (Mid-2023)
+<img width="20%" height="auto" alt="ForexGPT-Pro-Terminal-version1-30005-122925" src="https://github.com/user-attachments/assets/fce8195a-96d9-45c2-8296-c71306733422" />
+
+
+ 
+## Mastering Meta-Prompting (Mid-2023) 
+
 
 <img src="https://github.com/hatgit/hatgit/assets/5213035/ce15c67c-7a98-475b-b8b6-d230190b4388" width="15%" height="auto">
 
