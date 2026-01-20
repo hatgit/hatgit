@@ -2,7 +2,7 @@
 
 ## About Me
 
-<a href="https://stackexchange.com/users/14307327/steven-hatzakis"><img src="https://stackexchange.com/users/flair/14307327.png" width="208" height="58" alt="profile for Steven Hatzakis on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Steven Hatzakis on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<img src="https://github.com/user-attachments/assets/aadb71cc-030c-4a47-8503-f4e0b129fa9c" width="25%" height="auto">
 
 I'm Steven Hatzakis, a fintech researcher, AI product builder, and Partner & Global Director of Online Broker Research at [Reink Media Group](https://www.reinkmedia.com/), operating [ForexBrokers.com](https://www.forexbrokers.com/), [StockBrokers.com](https://www.stockbrokers.com/), and [Investor.com](https://www.investor.com/).
 
@@ -61,5 +61,7 @@ A Chrome extension for secure password generation: [White Hat Password Generator
 To protect yourself from scams and impersonation attempts, visit [StevenHatzakis.com/scams-impersonation](https://www.stevenhatzakis.com/scams-impersonation).
 
 ---
+
+<a href="https://stackexchange.com/users/14307327/steven-hatzakis"><img src="https://stackexchange.com/users/flair/14307327.png" width="208" height="58" alt="profile for Steven Hatzakis on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Steven Hatzakis on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=hatgit)
