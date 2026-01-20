@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img src="https://github.com/user-attachments/assets/aadb71cc-030c-4a47-8503-f4e0b129fa9c" width="25%" height="auto">
+<img src="https://github.com/user-attachments/assets/aadb71cc-030c-4a47-8503-f4e0b129fa9c" width="20%" height="auto">
 
 I'm Steven Hatzakis, a fintech researcher, AI product builder, and Partner & Global Director of Online Broker Research at [Reink Media Group](https://www.reinkmedia.com/), operating [ForexBrokers.com](https://www.forexbrokers.com/), [StockBrokers.com](https://www.stockbrokers.com/), and [Investor.com](https://www.investor.com/).
 
@@ -25,9 +25,9 @@ I've been practicing RAG and agentic coding workflows since before these terms e
 
 The ForexGPT Pro Terminal is available on [Google Play](https://play.google.com/store/apps/details?id=ai.forex_gpt.demo.twa):
 
-<img src="https://github.com/user-attachments/assets/da3e8e93-c8c7-48f1-9e7d-0022ffce0cdc" width="10%" height="auto">
+<img src="https://github.com/user-attachments/assets/da3e8e93-c8c7-48f1-9e7d-0022ffce0cdc" width="15%" height="auto">
 
-<img width="20%" height="auto" alt="ForexGPT-Pro-Terminal-version1-30005-122925" src="https://github.com/user-attachments/assets/fce8195a-96d9-45c2-8296-c71306733422" />
+<img width="44%" height="auto" alt="ForexGPT-Pro-Terminal-version1-30005-122925" src="https://github.com/user-attachments/assets/fce8195a-96d9-45c2-8296-c71306733422" />
 
 
  
