@@ -34,6 +34,7 @@ I've been practicing RAG and agentic coding workflows since before these terms e
 
 
 
+
 ## ForexGPT: AI-Native Trading Analysis
 
 <img src="https://github.com/hatgit/forex-gpt/assets/5213035/c461f57b-d977-4c95-bc9f-de6abac01501" width="5%" height="auto">
