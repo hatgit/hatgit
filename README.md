@@ -15,6 +15,15 @@ With 25+ years in financial markets and 1,000+ code commits in 2025, I build pro
 
 I've been practicing RAG and agentic coding workflows since before these terms existed. Top 1% ChatGPT user (14,000+ messages in 2025).
 
+### Technologies
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
 ## ForexGPT: AI-Native Trading Analysis
 
 <img src="https://github.com/hatgit/forex-gpt/assets/5213035/c461f57b-d977-4c95-bc9f-de6abac01501" width="5%" height="auto">
