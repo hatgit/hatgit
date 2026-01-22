@@ -24,6 +24,16 @@ I've been practicing RAG and agentic coding workflows since before these terms e
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
+![](https://img.shields.io/badge/-🧢%20hatgit-000)
+![](https://img.shields.io/badge/-🤖%20forexgpt--openai--app-000)
+![](https://img.shields.io/badge/-🌐%20StevenHatzakis.com-000)
+![](https://img.shields.io/badge/-🛡%20White--Hat--Password--Generator-000)
+![](https://img.shields.io/badge/-🧙‍♂️%20Mneumonic%20Wizard-000)
+![](https://img.shields.io/badge/-💹%20ForexGPT-000)
+![](https://img.shields.io/badge/-📝%20HatNotation-000)
+
+
+
 ## ForexGPT: AI-Native Trading Analysis
 
 <img src="https://github.com/hatgit/forex-gpt/assets/5213035/c461f57b-d977-4c95-bc9f-de6abac01501" width="5%" height="auto">
