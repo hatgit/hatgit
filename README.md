@@ -32,7 +32,10 @@ I've been practicing RAG and agentic coding workflows since before these terms e
 ![](https://img.shields.io/badge/-💹%20ForexGPT-000)
 ![](https://img.shields.io/badge/-📝%20HatNotation-000)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hatgit&theme=dracula) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hatgit&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hatgit&theme=dracula)
 
 
 ## ForexGPT: AI-Native Trading Analysis
