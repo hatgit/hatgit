@@ -31,6 +31,7 @@ I've been practicing RAG and agentic coding workflows since before these terms e
 ![](https://img.shields.io/badge/-🧙‍♂️%20Mneumonic%20Wizard-000)
 ![](https://img.shields.io/badge/-💹%20ForexGPT-000)
 ![](https://img.shields.io/badge/-📝%20HatNotation-000)
+![](https://img.shields.io/badge/-🗣️%20VoiceAgentMe.com-000)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hatgit&theme=dracula) 
 
